@@ -44,12 +44,12 @@ Compatible with: **Chrome, Brave, Edge, Firefox**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f16af5a4-af17-475e-943f-c9b775d2455b" width="300" alt="SEO-SkyView-1" />
-  <img src="https://github.com/user-attachments/assets/4c7e08ed-086d-4b60-8609-f83267e94e53" width="300" alt="SEO-SkyView-2" />
+  <img src="https://github.com/user-attachments/assets/0b674d94-3a0a-4bc8-9809-cbc0c2a35cd2" width="300" alt="SEO-SkyView-7" />
   <img src="https://github.com/user-attachments/assets/5fbaba32-9a63-4eb9-8e97-7b057264ee49" width="300" alt="SEO-SkyView-3" />
   <img src="https://github.com/user-attachments/assets/6d9902c8-583b-44ba-85b2-807e92682d17" width="300" alt="SEO-SkyView-4" />
   <img src="https://github.com/user-attachments/assets/c3242888-080f-4a84-a255-ec7f823b95b8" width="300" alt="SEO-SkyView-5" />
   <img src="https://github.com/user-attachments/assets/2fc2969d-f86f-4d83-b333-c4061ec174e3" width="300" alt="SEO-SkyView-6" />
-  <img src="https://github.com/user-attachments/assets/0b674d94-3a0a-4bc8-9809-cbc0c2a35cd2" width="300" alt="SEO-SkyView-7" />
+  <img src="https://github.com/user-attachments/assets/4c7e08ed-086d-4b60-8609-f83267e94e53" width="300" alt="SEO-SkyView-2" />
   <img src="https://github.com/user-attachments/assets/7d0dc44b-22eb-4648-8530-d3adabc66897" width="300" alt="SEO-SkyView-8" />
   <img src="https://github.com/user-attachments/assets/32d3ca95-9e9c-4000-95a9-6336a1782a51" width="300" alt="SEO-SkyView-9" />
   <img src="https://github.com/user-attachments/assets/54549125-010e-4184-aa5a-2d86f562c17e" width="300" alt="SEO-SkyView-10" />

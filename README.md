@@ -34,10 +34,10 @@ This is a **free tool for the SEO community**. While the code is not currently o
 
 ---
 
-### 📥 [Install the extension](#) and take control of your SEO today.
+### 📥 Download SEO SkyView for Your Browser
 
-https://chromewebstore.google.com/detail/seo-skyview/ehgbdcbbmpbgelepakaljijoflbmjbep
+- 👉 [Chrome & Brave](https://chromewebstore.google.com/detail/seo-skyview/ehgbdcbbmpbgelepakaljijoflbmjbep) – via Chrome Web Store  
+- 👉 [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/seo-skyview/kknlbnjkklfihibnlkbpnonagbfggaml) – via Edge Add-ons  
+- 👉 [Firefox, Firefox for Android](https://addons.mozilla.org/en-GB/firefox/addon/seo-skyview/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) – via Firefox Add-ons
 
-https://microsoftedge.microsoft.com/addons/detail/seo-skyview/kknlbnjkklfihibnlkbpnonagbfggaml
-
-https://addons.mozilla.org/en-GB/firefox/addon/seo-skyview/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Compatible with: **Chrome, Brave, Edge, Firefox**

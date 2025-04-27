@@ -33,7 +33,7 @@ No logins. No subscriptions. No jumping between tabs. 100% Free.
 ### ❗ Note
 This is a **free tool for the SEO community**. While the code is not currently open source, it’s designed to empower users with accessible insights and reduce reliance on expensive services.
 
----
+--- 
 
 ### 📥 Download SEO SkyView for Your Browser
 

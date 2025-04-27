@@ -22,7 +22,7 @@ No logins. No subscriptions. No jumping between tabs. 100% Free.
 
 ---
 
-### 💰 Why 
+### 💰 What Is The Purpose to use? 
 - Save thousands on agency fees 💸
 - Get instant insights, without hiring consultants
 - Assign focused tasks instead of full audits

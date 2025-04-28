@@ -17,7 +17,7 @@ No logins. No subscriptions. No jumping between tabs. 100% Free.
 ### 💼 Who It’s For
 - E-commerce store owners
 - Digital marketers
-- Content creators
+- Content creators 
 - SEO beginners & small business websites
 
 ---

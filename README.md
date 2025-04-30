@@ -13,7 +13,7 @@ No logins. No subscriptions. No jumping between tabs. 100% Free.
 - Identify quick wins and areas for improvement without expensive audits
 
 ---
-
+ 
 ### 💼 Who It’s For
 - E-commerce store owners
 - Digital marketers

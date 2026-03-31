@@ -10,7 +10,7 @@ No logins. No subscriptions. No jumping between tabs. 100% Free.
 ### ⚡ What It Does  
 - Instantly audit any webpage from different angles 
 - Save 40+ hours/month of manual checks and tool-hopping
-- Identify quick wins and areas for improvement without expensive audits
+- Identify quick wins and areas for improvement without expensive audits 
 
 ---
  

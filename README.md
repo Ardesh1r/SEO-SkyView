@@ -37,9 +37,7 @@ This is a **free tool for the SEO community**. While the code is not currently o
 
 ### 📥 Download SEO SkyView for Your Browser
 
-- 👉 [Chrome & Brave](https://chromewebstore.google.com/detail/seo-skyview/ehgbdcbbmpbgelepakaljijoflbmjbep) – via Chrome Web Store  
-- 👉 [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/seo-skyview/kknlbnjkklfihibnlkbpnonagbfggaml) – via Edge Add-ons  
-- 👉 [Firefox, Firefox for Android](https://addons.mozilla.org/en-GB/firefox/addon/seo-skyview/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) – via Firefox Add-ons
+- 👉 [Microsoft Edge & Chrome & Brave](https://microsoftedge.microsoft.com/addons/detail/seo-skyview/kknlbnjkklfihibnlkbpnonagbfggaml) – via Edge Add-ons  
 
 Compatible with: **Chrome, Brave, Edge, Firefox**
 

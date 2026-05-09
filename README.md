@@ -2,7 +2,8 @@
 SEO SkyView is a free community browser extension that gives you instant SEO insights in one click. Save 40+ hours/month. Perfect for marketers, e-commerce owners &amp; content creators.   
 
 <br>
-<img src="https://github.com/user-attachments/assets/22331202-a58f-4ee2-990f-e0c8e3b137f2" width="600" alt="SEO-SkyView-12" />
+<img width="600" height="497" alt="image" src="https://github.com/user-attachments/assets/3593669f-9b58-49e5-8817-845a1addfbdc" />
+
 <br>
 No logins. No subscriptions. No jumping between tabs. 100% Free. 
 

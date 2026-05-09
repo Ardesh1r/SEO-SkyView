@@ -1,4 +1,5 @@
 <img src="https://github.com/user-attachments/assets/c38f57d7-1c33-478e-9b40-5f8deba5fc27" width="100" alt="SEO-SkyView-1" />
+<br>
 # SEO-SkyView
 SEO SkyView is a free community browser extension that gives you instant SEO insights in one click. Save 40+ hours/month. Perfect for marketers, e-commerce owners &amp; content creators.   
 
